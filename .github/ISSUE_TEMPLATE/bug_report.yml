@@ -22,7 +22,7 @@ body:
     id: diagnostics
     attributes:
       label: Диагностика / Diagnostics
-      description: "В приложении: Настройки → Помощь → «Скопировать диагностику» — вставьте сюда. / In the app: Settings → Help → \"Copy diagnostics\" — paste here."
+      description: "В приложении: Настройки → Помощь → «Скопировать диагностику» (или «Сохранить архив диагностики» и приложите файл). / In the app: Settings → Help → \"Copy diagnostics\" (or \"Save diagnostics file\" and attach it)."
       render: text
   - type: input
     id: version
