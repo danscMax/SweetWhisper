@@ -1,0 +1,45 @@
+name: 🐛 Баг / Bug report
+description: Что-то работает не так / Something is broken
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: Что случилось / What happened
+      description: Что вы делали, что ожидали и что произошло вместо этого / What you did, what you expected, what happened instead
+      placeholder: "Нажал хоткей, начал диктовать, но…"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Шаги воспроизведения / Steps to reproduce
+      placeholder: |
+        1. …
+        2. …
+        3. …
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Диагностика / Diagnostics
+      description: "В приложении: Настройки → Помощь → «Скопировать диагностику» — вставьте сюда. / In the app: Settings → Help → \"Copy diagnostics\" — paste here."
+      render: text
+  - type: input
+    id: version
+    attributes:
+      label: Версия приложения / App version
+      placeholder: "0.9.25 (Настройки → О программе / Settings → About)"
+    validations:
+      required: true
+  - type: dropdown
+    id: install
+    attributes:
+      label: Тип установки / Install type
+      options:
+        - Установщик / Installer
+        - Portable
+  - type: input
+    id: gpu
+    attributes:
+      label: Видеокарта / GPU
+      placeholder: "например RTX 3060 / e.g. RTX 3060, or «нет GPU / no GPU»"

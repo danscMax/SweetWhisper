@@ -1,0 +1,22 @@
+name: 💡 Идея / Feature request
+description: Предложить улучшение / Suggest an improvement
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Какую задачу это решает / What problem does it solve
+      description: Опишите ситуацию, в которой вам не хватило этой возможности / Describe the situation where you needed this
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Как вы это видите / How you imagine it
+      placeholder: "Хочу, чтобы…"
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Чем обходитесь сейчас / Current workaround
