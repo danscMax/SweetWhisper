@@ -42,16 +42,14 @@ The **free Windows version** does the whole of recognition, with no limits: ever
 
 ## What it does on Windows
 
-|  |  |
-|---|---|
-| 🎙️ **Dictate into any window** | Hold a key or flip a toggle — the text is inserted straight into the active app |
-| 🌍 **90+ languages** | GigaAM was trained on Russian specifically; Whisper and NVIDIA Parakeet cover English and 90+ more |
-| 🔒 **It all runs on your machine** | Recognition happens on your GPU or CPU (Vulkan, DirectML). The network is only there to fetch a model and check for updates |
-| ⚡ **Live preview** | The text appears on screen while you are still speaking |
-| 🗣️ **Voice commands** | "Kitty, undo", "Kitty, open notepad" — hands-free control |
-| 🤖 **Text cleanup** | A local language model drops filler words, restores punctuation, translates — offline as well |
-| 👤 **Per-app profiles** | Separate settings for your IDE, your messenger and your documents, switched automatically |
-| 📜 **Dictation history** | Search across everything you have ever dictated |
+- 🎙️ **Dictate into any window.** Hold a key or flip a toggle — the text is inserted straight into the active app.
+- 🌍 **90+ languages.** GigaAM was trained on Russian specifically; Whisper and NVIDIA Parakeet cover English and 90+ more.
+- 🔒 **It all runs on your machine.** Recognition happens on your GPU or CPU (Vulkan, DirectML). The network is only there to fetch a model and check for updates.
+- ⚡ **Live preview.** The text appears on screen while you are still speaking.
+- 🗣️ **Voice commands.** "Kitty, undo", "Kitty, open notepad" — hands-free control.
+- 🤖 **Text cleanup.** A local language model drops filler words, restores punctuation, translates — offline as well.
+- 👤 **Per-app profiles.** Separate settings for your IDE, your messenger and your documents, switched automatically.
+- 📜 **Dictation history.** Search across everything you have ever dictated.
 
 <div align="center">
 <img src="assets/bar.png" alt="Floating bar" width="360">
