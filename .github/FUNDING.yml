@@ -1,0 +1,4 @@
+# Adds the "Sponsor" button to the repository header.
+# Same CloudTips jar the app itself offers under About -> "Thank the developer"
+# (AboutContent.svelte). Tips only — Pro is sold separately on sweetwhisper.app.
+custom: ['https://pay.cloudtips.ru/p/9b14d4f1']
