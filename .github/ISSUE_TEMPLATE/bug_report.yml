@@ -1,4 +1,4 @@
-name: 🐛 Баг / Bug report
+name: 🐛 Ошибка / Bug report
 description: Что-то работает не так / Something is broken
 labels: [bug]
 body:
@@ -16,7 +16,7 @@ body:
     attributes:
       label: Что случилось / What happened
       description: Что вы делали, что ожидали и что произошло вместо этого / What you did, what you expected, what happened instead
-      placeholder: "Нажал хоткей, начал диктовать, но…"
+      placeholder: "Зажал горячую клавишу, начал диктовать, но…"
     validations:
       required: true
   - type: textarea
@@ -31,7 +31,7 @@ body:
     id: diagnostics
     attributes:
       label: Диагностика / Diagnostics
-      description: "В приложении: Настройки → Помощь → «Скопировать диагностику» (или «Сохранить архив диагностики» и приложите файл). / In the app: Settings → Help → \"Copy diagnostics\" (or \"Save diagnostics file\" and attach it)."
+      description: "В приложении: Настройки → Основные → «Помощь и обратная связь» → «Скопировать диагностику» (или «Сохранить архив диагностики» и приложите файл). / In the app: Settings → General → \"Help & Feedback\" → \"Copy diagnostics\" (or \"Save diagnostics file\" and attach it)."
       render: text
   - type: input
     id: version
