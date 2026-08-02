@@ -32,7 +32,7 @@
 | **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 33,6 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.11.4](../../releases/latest) |
 | **Android 9+** · APK | `SweetWhisper.apk` | 47,9 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.6](../../releases/tag/android-v3.6) |
 
-Файлы на сайте и в Releases — один и тот же байт-в-байт файл, берите откуда удобнее. Ссылки на сайте всегда ведут на свежую сборку, в Releases лежат все версии.
+Файлы на сайте и в Releases — один и тот же байт-в-байт файл, берите откуда удобнее. Ссылки на сайте всегда ведут на свежую сборку, в [Releases](../../releases) лежат прошлые версии и контрольные суммы. Что менялось от версии к версии — [полная история изменений](https://sweetwhisper.app/changelog/).
 
 При первом запуске Windows может показать SmartScreen — приложение молодое и ещё не набрало «репутацию» у Microsoft. [Что это значит и почему не страшно](https://sweetwhisper.app/#download). Android один раз спросит, доверяете ли вы источнику установки — [пошагово с картинками](https://sweetwhisper.app/android/).
 

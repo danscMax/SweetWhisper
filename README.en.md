@@ -32,7 +32,7 @@ Hold a hotkey — speak — release. The text lands in whatever app has focus: m
 | **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 33.6 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.11.4](../../releases/latest) |
 | **Android 9+** · APK | `SweetWhisper.apk` | 47.9 MB | [download](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.6](../../releases/tag/android-v3.6) |
 
-The site and Releases serve the very same bytes — take whichever is convenient. The site links always point at the newest build; Releases keep every version.
+The site and Releases serve the very same bytes — take whichever is convenient. The site links always point at the newest build; [Releases](../../releases) keep the older versions and the checksums. What changed from version to version — [full changelog](https://sweetwhisper.app/en/changelog/).
 
 On first launch Windows may show a SmartScreen warning — the app is young and has not built up "reputation" with Microsoft yet. [What that means and why it is fine](https://sweetwhisper.app/en/#download). Android will ask once whether you trust the source you are installing from — [step by step with pictures](https://sweetwhisper.app/en/android/).
 
