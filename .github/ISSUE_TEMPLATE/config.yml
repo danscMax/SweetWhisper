@@ -3,3 +3,9 @@ contact_links:
   - name: 🌐 Сайт / Website
     url: https://sweetwhisper.app
     about: Загрузки, FAQ, цены / Downloads, FAQ, pricing
+  - name: 🤖 Приложение для Android / Android app
+    url: https://sweetwhisper.app/android/
+    about: Как поставить APK и включить клавиатуру / How to install the APK and enable the keyboard
+  - name: 💬 Обсуждения / Discussions
+    url: https://github.com/danscMax/SweetWhisper/discussions
+    about: Вопросы, впечатления, пожелания / Questions, impressions, wishes

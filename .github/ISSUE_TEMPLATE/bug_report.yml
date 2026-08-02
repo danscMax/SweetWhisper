@@ -2,6 +2,15 @@ name: 🐛 Баг / Bug report
 description: Что-то работает не так / Something is broken
 labels: [bug]
 body:
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Платформа / Platform
+      options:
+        - Windows
+        - Android
+    validations:
+      required: true
   - type: textarea
     id: what
     attributes:
@@ -28,7 +37,7 @@ body:
     id: version
     attributes:
       label: Версия приложения / App version
-      placeholder: "0.9.25 (Настройки → О программе / Settings → About)"
+      placeholder: "0.11.4 или Android 3.6 (Настройки → О программе / Settings → About)"
     validations:
       required: true
   - type: dropdown
@@ -36,10 +45,11 @@ body:
     attributes:
       label: Тип установки / Install type
       options:
-        - Установщик / Installer
-        - Portable
+        - Установщик Windows / Windows installer
+        - Windows portable
+        - Android APK
   - type: input
     id: gpu
     attributes:
-      label: Видеокарта / GPU
-      placeholder: "например RTX 3060 / e.g. RTX 3060, or «нет GPU / no GPU»"
+      label: Видеокарта или модель телефона / GPU or phone model
+      placeholder: "например RTX 3060 / e.g. RTX 3060, «нет GPU / no GPU», Xiaomi Redmi Note 12"
