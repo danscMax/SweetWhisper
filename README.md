@@ -11,7 +11,7 @@
 [🌐 Сайт](https://sweetwhisper.app) · [⬇️ Скачать](#скачать) · [🤖 Версия для Android](https://sweetwhisper.app/android/) · [🐛 Сообщить о баге](../../issues/new/choose)
 
 <!-- Версии в бейджах правятся руками при каждом релизе. -->
-![Windows 0.11.4](https://img.shields.io/badge/Windows_10%2F11-0.11.4-0078D6?logo=windows&logoColor=white)
+![Windows 0.11.5](https://img.shields.io/badge/Windows_10%2F11-0.11.5-0078D6?logo=windows&logoColor=white)
 ![Android 3.8](https://img.shields.io/badge/Android_9%2B-3.8-3DDC84?logo=android&logoColor=white)
 ![Офлайн](https://img.shields.io/badge/распознавание-100%25%20локально-2ea44f)
 ![RU + 90+ языков](https://img.shields.io/badge/языки-RU%20%2B%2090%2B-blue)
@@ -30,8 +30,8 @@
 
 | Платформа | Файл | Размер | С сайта | С GitHub |
 |---|---|---|---|---|
-| **Windows 10/11** · установщик | `SweetWhisper-Setup.exe` | 17,5 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.11.4](../../releases/latest) |
-| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 33,6 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.11.4](../../releases/latest) |
+| **Windows 10/11** · установщик | `SweetWhisper-Setup.exe` | 17,5 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.11.5](../../releases/latest) |
+| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 34,0 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.11.5](../../releases/latest) |
 | **Android 9+** · APK | `SweetWhisper.apk` | 38,3 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.8](../../releases/tag/android-v3.8) |
 
 На сайте и в Releases лежит один и тот же файл, байт в байт, — берите откуда удобнее. Ссылки на сайте всегда ведут на свежую сборку, а в [Releases](../../releases) остаются прошлые версии и контрольные суммы. Что менялось от версии к версии — [полная история изменений](https://sweetwhisper.app/changelog/).
