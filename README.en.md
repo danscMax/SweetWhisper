@@ -12,7 +12,7 @@
 
 <!-- Badge versions are edited by hand on each release. -->
 ![Windows 0.11.11](https://img.shields.io/badge/Windows_10%2F11-0.11.11-0078D6?logo=windows&logoColor=white)
-![Android 3.20](https://img.shields.io/badge/Android_9%2B-3.20-3DDC84?logo=android&logoColor=white)
+![Android 3.21](https://img.shields.io/badge/Android_9%2B-3.21-3DDC84?logo=android&logoColor=white)
 ![Offline](https://img.shields.io/badge/recognition-100%25%20on--device-2ea44f)
 ![90+ languages](https://img.shields.io/badge/languages-90%2B-blue)
 
@@ -32,7 +32,7 @@ Hold a hotkey — speak — release. The text lands in whatever app has focus: m
 |---|---|---|---|---|
 | **Windows 10/11** · installer | `SweetWhisper-Setup.exe` | 17.5 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.11.11](../../releases/latest) |
 | **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 34.0 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.11.11](../../releases/latest) |
-| **Android 9+** · APK | `SweetWhisper.apk` | 38.4 MB | [download](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.20](../../releases/tag/android-v3.20) |
+| **Android 9+** · APK | `SweetWhisper.apk` | 38.4 MB | [download](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.21](../../releases/tag/android-v3.21) |
 
 The site and Releases serve the very same file, byte for byte — take whichever is convenient. The site links always point at the newest build, while [Releases](../../releases) keep the older versions and the checksums. What changed from version to version: the [full changelog](https://sweetwhisper.app/en/changelog/).
 
