@@ -38,7 +38,7 @@ The site and Releases serve the very same file, byte for byte — take whichever
 
 On first launch Windows may show a SmartScreen prompt: the app is young and has not built up a "reputation" with Microsoft yet. [What that means and why it is harmless](https://sweetwhisper.app/en/#download). Android will ask once whether you trust the source you are installing from — [step by step, with pictures](https://sweetwhisper.app/en/android/).
 
-The **free Windows version** does the whole of recognition, with no limits: every engine, every model, dictation, history. **Pro** is a one-time purchase, not a subscription; it adds live preview, text cleanup by a language model, per-app profiles and other superpowers. [What you get and what it costs](https://sweetwhisper.app/en/#pricing). **The Android app is free in its entirety.**
+The **free Windows version** does the whole of recognition, with no limits: every engine, every model, dictation, history. **Pro** is a one-time purchase, not a subscription; it adds live preview, text cleanup by a language model, per-app profiles and other superpowers. [What you get and what it costs](https://sweetwhisper.app/en/#pricing). **On Android, dictation from the keyboard is free, Russian included**; Pro adds the floating button, translation and the heaviest models — unlocked by the same key as the desktop.
 
 ## What it does on Windows
 
