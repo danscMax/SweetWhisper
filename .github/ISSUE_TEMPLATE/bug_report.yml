@@ -31,8 +31,16 @@ body:
     id: diagnostics
     attributes:
       label: Диагностика / Diagnostics
-      description: "В приложении: Настройки → Основные → «Помощь и обратная связь» → «Скопировать диагностику» (или «Сохранить архив диагностики» и приложите файл). / In the app: Settings → General → \"Help & Feedback\" → \"Copy diagnostics\" (or \"Save diagnostics file\" and attach it)."
+      description: "Windows: Настройки → Основные → «Помощь и обратная связь» → «Скопировать диагностику» (или «Сохранить архив диагностики» и приложите файл). Android: такой кнопки нет — долгое нажатие на строку с версией внизу «Настроек» копирует версию и номер сборки, вставьте её сюда. / Windows: Settings → General → \"Help & Feedback\" → \"Copy diagnostics\" (or \"Save diagnostics file\" and attach it). Android: there is no such button — long-press the version row at the bottom of Settings to copy the version and build number, and paste it here."
       render: text
+  - type: input
+    id: os
+    attributes:
+      label: Версия ОС / OS version
+      description: "Android: Настройки → О телефоне → Версия Android. Windows: Win+R → winver. / Android: Settings → About phone → Android version. Windows: Win+R → winver."
+      placeholder: "Android 14 · Windows 11 23H2"
+    validations:
+      required: true
   - type: input
     id: version
     attributes:
