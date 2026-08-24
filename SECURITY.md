@@ -15,7 +15,7 @@
 
 - Приложение SweetWhisper для Windows
 - Приложение Sweet Whisper для Android
-- Сайт sweetwhisper.app и сервис relay, который принимает отчёты об ошибках
+- Сайт sweetwhisper.app и сервис relay: отчёты об ошибках, обратная связь, приём оплаты и выдача лицензионных ключей
 
 **Что не относится**
 
@@ -35,7 +35,7 @@ Include a description, reproduction steps and the app version. We reply within 7
 
 - SweetWhisper for Windows
 - Sweet Whisper for Android
-- The sweetwhisper.app website and the relay service that receives error reports
+- The sweetwhisper.app website and the relay service: error reports, feedback, payment intake and license-key issuance
 
 **Out of scope**
 

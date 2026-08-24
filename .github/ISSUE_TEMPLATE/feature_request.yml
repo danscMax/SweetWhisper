@@ -2,6 +2,18 @@ name: 💡 Идея / Feature request
 description: Предложить улучшение / Suggest an improvement
 labels: [enhancement]
 body:
+  # Same required dropdown as bug_report.yml — Windows and Android are separate
+  # products, so an idea is only actionable once we know which one it is for.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Платформа / Platform
+      options:
+        - Windows
+        - Android
+        - Оба / Both
+    validations:
+      required: true
   - type: textarea
     id: problem
     attributes:
