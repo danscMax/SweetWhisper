@@ -30,8 +30,8 @@ Hold a hotkey — speak — release. The text lands in whatever app has focus: m
 
 | Platform | File | Size | From the site | From GitHub |
 |---|---|---|---|---|
-| **Windows 10/11** · installer | `SweetWhisper-Setup.exe` | 18.6 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.11.12](../../releases/latest) |
-| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 35.7 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.11.12](../../releases/latest) |
+| **Windows 10/11** · installer | `SweetWhisper-Setup.exe` | 18.6 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.11.12](../../releases/tag/v0.11.12) |
+| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 35.7 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.11.12](../../releases/tag/v0.11.12) |
 | **Android 9+** · APK | `SweetWhisper.apk` | 36.2 MB | [download](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.29](../../releases/tag/android-v3.29) |
 
 The site and Releases serve the very same file, byte for byte — take whichever is convenient. The site links always point at the newest build, while [Releases](../../releases) keep the older versions and the checksums. What changed from version to version: the [full changelog](https://sweetwhisper.app/en/changelog/).

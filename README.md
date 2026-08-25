@@ -30,8 +30,8 @@
 
 | Платформа | Файл | Размер | С сайта | С GitHub |
 |---|---|---|---|---|
-| **Windows 10/11** · установщик | `SweetWhisper-Setup.exe` | 18,6 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.11.12](../../releases/latest) |
-| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 35,7 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.11.12](../../releases/latest) |
+| **Windows 10/11** · установщик | `SweetWhisper-Setup.exe` | 18,6 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.11.12](../../releases/tag/v0.11.12) |
+| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 35,7 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.11.12](../../releases/tag/v0.11.12) |
 | **Android 9+** · APK | `SweetWhisper.apk` | 36,2 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.29](../../releases/tag/android-v3.29) |
 
 На сайте и в Releases лежит один и тот же файл, байт в байт, — берите откуда удобнее. Ссылки на сайте всегда ведут на свежую сборку, а в [Releases](../../releases) остаются прошлые версии и контрольные суммы. Что менялось от версии к версии — [полная история изменений](https://sweetwhisper.app/changelog/).

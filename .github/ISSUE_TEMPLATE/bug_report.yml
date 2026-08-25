@@ -15,7 +15,7 @@ body:
     id: what
     attributes:
       label: Что случилось / What happened
-      description: Что вы делали, что ожидали и что произошло вместо этого / What you did, what you expected, what happened instead
+      description: "Что вы делали, что ожидали и что произошло вместо этого. Архив диагностики перетащите сюда — вложения принимает только это поле. / What you did, what you expected, what happened instead. Drag the diagnostics file here — this is the field that takes attachments."
       placeholder: "Зажал горячую клавишу, начал диктовать, но…"
     validations:
       required: true
@@ -31,7 +31,7 @@ body:
     id: diagnostics
     attributes:
       label: Диагностика / Diagnostics
-      description: "Windows: Настройки → Основные → «Помощь и обратная связь» → «Скопировать диагностику» (или «Сохранить архив диагностики» и приложите файл). Android: такой кнопки нет — долгое нажатие на строку с версией внизу «Настроек» копирует версию и номер сборки, вставьте её сюда. / Windows: Settings → General → \"Help & Feedback\" → \"Copy diagnostics\" (or \"Save diagnostics file\" and attach it). Android: there is no such button — long-press the version row at the bottom of Settings to copy the version and build number, and paste it here."
+      description: "Windows: Настройки → Основные → «Помощь и обратная связь» → «Скопировать диагностику» (или «Сохранить архив диагностики» — файл перетащите в поле «Что случилось» выше). Android: такой кнопки нет — долгое нажатие на строку с версией внизу «Настроек» копирует версию и номер сборки, вставьте её сюда. / Windows: Settings → General → \"Help & Feedback\" → \"Copy diagnostics\" (or \"Save diagnostics file\" — drag the file into the \"What happened\" field above). Android: there is no such button — long-press the version row at the bottom of Settings to copy the version and build number, and paste it here."
       render: text
   - type: input
     id: os
