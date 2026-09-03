@@ -46,7 +46,7 @@ body:
     attributes:
       label: Версия приложения / App version
       description: "Windows: Настройки → О программе. Android: раздела «О программе» нет — версия последней строкой внизу «Настроек», долгое нажатие копирует её вместе с номером сборки. / Windows: Settings → About. Android: there is no About screen — the version is the last row at the bottom of Settings; long-press copies it together with the build number."
-      placeholder: "0.14.0 или Android 3.31"
+      placeholder: "0.14.1 или Android 3.31"
     validations:
       required: true
   - type: dropdown
