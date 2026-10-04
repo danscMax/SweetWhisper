@@ -12,7 +12,7 @@
 
 <!-- Версии в бейджах правятся руками при каждом релизе. -->
 ![Windows 0.19.2](https://img.shields.io/badge/Windows_10%2F11-0.19.2-0078D6?logo=windows&logoColor=white)
-![Android 3.39](https://img.shields.io/badge/Android_9%2B-3.39-3DDC84?logo=android&logoColor=white)
+![Android 3.40](https://img.shields.io/badge/Android_9%2B-3.40-3DDC84?logo=android&logoColor=white)
 ![Офлайн](https://img.shields.io/badge/распознавание-100%25%20локально-2ea44f)
 ![RU + 90+ языков](https://img.shields.io/badge/языки-RU%20%2B%2090%2B-blue)
 
@@ -32,7 +32,7 @@
 |---|---|---|---|---|
 | **Windows 10/11** · установщик | `SweetWhisper-Setup.exe` | 20,0 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.19.2](../../releases/tag/v0.19.2) |
 | **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 36,6 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.19.2](../../releases/tag/v0.19.2) |
-| **Android 9+** · APK | `SweetWhisper.apk` | 36,5 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.39](../../releases/tag/android-v3.39) |
+| **Android 9+** · APK | `SweetWhisper.apk` | 36,5 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.40](../../releases/tag/android-v3.40) |
 
 На сайте и в Releases лежит один и тот же файл, байт в байт, — берите откуда удобнее. Ссылки на сайте всегда ведут на свежую сборку, а в [Releases](../../releases) остаются прошлые версии и контрольные суммы. Что менялось от версии к версии — [полная история изменений](https://sweetwhisper.app/changelog/).
 
