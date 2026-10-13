@@ -11,8 +11,8 @@
 [🌐 Website](https://sweetwhisper.app/en/) · [⬇️ Download](#download) · [🤖 Android app](https://sweetwhisper.app/en/android/) · [🐛 Report a bug](../../issues/new/choose)
 
 <!-- Badge versions are edited by hand on each release. -->
-![Windows 0.20.2](https://img.shields.io/badge/Windows_10%2F11-0.20.2-0078D6?logo=windows&logoColor=white)
-![Android 3.43](https://img.shields.io/badge/Android_9%2B-3.43-3DDC84?logo=android&logoColor=white)
+![Windows 0.20.3](https://img.shields.io/badge/Windows_10%2F11-0.20.3-0078D6?logo=windows&logoColor=white)
+![Android 3.44](https://img.shields.io/badge/Android_9%2B-3.44-3DDC84?logo=android&logoColor=white)
 ![Offline](https://img.shields.io/badge/recognition-100%25%20on--device-2ea44f)
 ![90+ languages](https://img.shields.io/badge/languages-90%2B-blue)
 
@@ -30,9 +30,9 @@ Hold a hotkey — speak — release. The text lands in whatever app has focus: m
 
 | Platform | File | Size | From the site | From GitHub |
 |---|---|---|---|---|
-| **Windows 10/11** · installer | `SweetWhisper-Setup.exe` | 20.9 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.20.2](../../releases/tag/v0.20.2) |
-| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 39.8 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.20.2](../../releases/tag/v0.20.2) |
-| **Android 9+** · APK | `SweetWhisper.apk` | 36.6 MB | [download](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.43](../../releases/tag/android-v3.43) |
+| **Windows 10/11** · installer | `SweetWhisper-Setup.exe` | 20.9 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.20.3](../../releases/tag/v0.20.3) |
+| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 39.8 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.20.3](../../releases/tag/v0.20.3) |
+| **Android 9+** · APK | `SweetWhisper.apk` | 36.6 MB | [download](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.44](../../releases/tag/android-v3.44) |
 
 The site and Releases serve the very same file, byte for byte — take whichever is convenient. The site links always point at the newest build, while [Releases](../../releases) keep the older versions and the checksums. What changed from version to version: the [full changelog](https://sweetwhisper.app/en/changelog/).
 
