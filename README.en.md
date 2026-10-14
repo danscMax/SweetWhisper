@@ -61,6 +61,7 @@ It is a voice keyboard: you dictate right where you normally type. Open a chat, 
 
 <div align="center">
 <img src="assets/android-main-en.png" alt="Main screen" width="230">
+<img src="assets/android-models-en.png" alt="Model catalog" width="230">
 <img src="assets/android-settings-en.png" alt="Settings" width="230">
 </div>
 
