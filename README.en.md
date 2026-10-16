@@ -11,7 +11,7 @@
 [🌐 Website](https://sweetwhisper.app/en/) · [⬇️ Download](#download) · [🤖 Android app](https://sweetwhisper.app/en/android/) · [🐛 Report a bug](../../issues/new/choose)
 
 <!-- Badge versions are edited by hand on each release. -->
-![Windows 0.20.3](https://img.shields.io/badge/Windows_10%2F11-0.20.3-0078D6?logo=windows&logoColor=white)
+![Windows 0.20.4](https://img.shields.io/badge/Windows_10%2F11-0.20.4-0078D6?logo=windows&logoColor=white)
 ![Android 3.47](https://img.shields.io/badge/Android_9%2B-3.47-3DDC84?logo=android&logoColor=white)
 ![Offline](https://img.shields.io/badge/recognition-100%25%20on--device-2ea44f)
 ![90+ languages](https://img.shields.io/badge/languages-90%2B-blue)
@@ -30,8 +30,8 @@ Hold a hotkey — speak — release. The text lands in whatever app has focus: m
 
 | Platform | File | Size | From the site | From GitHub |
 |---|---|---|---|---|
-| **Windows 10/11** · installer | `SweetWhisper-Setup.exe` | 20.9 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.20.3](../../releases/tag/v0.20.3) |
-| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 39.8 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.20.3](../../releases/tag/v0.20.3) |
+| **Windows 10/11** · installer | `SweetWhisper-Setup.exe` | 20.9 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.20.4](../../releases/tag/v0.20.4) |
+| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 39.8 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.20.4](../../releases/tag/v0.20.4) |
 | **Android 9+** · APK | `SweetWhisper.apk` | 36.6 MB | [download](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.47](../../releases/tag/android-v3.47) |
 
 The site and Releases serve the very same file, byte for byte — take whichever is convenient. The site links always point at the newest build, while [Releases](../../releases) keep the older versions and the checksums. What changed from version to version: the [full changelog](https://sweetwhisper.app/en/changelog/).
