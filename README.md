@@ -13,7 +13,7 @@
 <!-- Версии в бейджах правятся руками при каждом релизе. -->
 [![Скачать для Windows](https://img.shields.io/badge/Скачать_для_Windows-0.20.9-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe)
 [![RuStore](https://img.shields.io/badge/Android-RuStore-0077FF?style=for-the-badge&logo=android&logoColor=white)](https://www.rustore.ru/catalog/app/app.sweetwhisper.android)
-[![Скачать APK](https://img.shields.io/badge/Android_APK-3.51-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://sweetwhisper.app/dl/SweetWhisper.apk)
+[![Скачать APK](https://img.shields.io/badge/Android_APK-3.52-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://sweetwhisper.app/dl/SweetWhisper.apk)
 
 ![Офлайн](https://img.shields.io/badge/распознавание-на_устройстве-2ea44f)
 ![Бесплатно](https://img.shields.io/badge/диктовка-бесплатно_и_без_лимитов-2ea44f)
@@ -101,7 +101,7 @@
 |---|---|---|---|---|
 | **Windows 10/11** · установщик | `SweetWhisper-Setup.exe` | 22,3 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.20.9](../../releases/tag/v0.20.9) |
 | **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 42,7 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.20.9](../../releases/tag/v0.20.9) |
-| **Android 9+** · APK | `SweetWhisper.apk` | 47,3 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.51](../../releases/tag/android-v3.51) |
+| **Android 9+** · APK | `SweetWhisper.apk` | 47,3 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.52](../../releases/tag/android-v3.52) |
 | **Android 9+** · магазин | RuStore | — | [открыть в RuStore](https://www.rustore.ru/catalog/app/app.sweetwhisper.android) | — |
 
 На сайте и в Releases лежит один и тот же файл, байт в байт. Ссылки на сайте всегда ведут на свежую сборку, а в [Releases](../../releases) остаются прошлые версии и контрольные суммы. Регистрация не нужна.

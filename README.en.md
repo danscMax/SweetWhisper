@@ -12,7 +12,7 @@
 
 <!-- Badge versions are edited by hand on each release. -->
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0.20.9-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe)
-[![Android APK](https://img.shields.io/badge/Android_APK-3.51-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://sweetwhisper.app/dl/SweetWhisper.apk)
+[![Android APK](https://img.shields.io/badge/Android_APK-3.52-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://sweetwhisper.app/dl/SweetWhisper.apk)
 
 ![Offline](https://img.shields.io/badge/recognition-on--device-2ea44f)
 ![Free](https://img.shields.io/badge/dictation-free,_no_limits-2ea44f)
@@ -100,7 +100,7 @@ It's a voice keyboard: you dictate right where you normally type. Open a chat, t
 |---|---|---|---|---|
 | **Windows 10/11** · installer | `SweetWhisper-Setup.exe` | 22.3 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.20.9](../../releases/tag/v0.20.9) |
 | **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 42.7 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.20.9](../../releases/tag/v0.20.9) |
-| **Android 9+** · APK | `SweetWhisper.apk` | 47.3 MB | [download](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.51](../../releases/tag/android-v3.51) |
+| **Android 9+** · APK | `SweetWhisper.apk` | 47.3 MB | [download](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.52](../../releases/tag/android-v3.52) |
 
 The site and Releases serve the very same file, byte for byte. The site links always point at the newest build, while [Releases](../../releases) keep older versions and checksums. No sign-up needed.
 
