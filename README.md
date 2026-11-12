@@ -11,7 +11,7 @@
 **Голосовой ввод для Windows и Android. Речь распознаётся прямо на вашем устройстве: без интернета, без подписки, голос никуда не уходит.**
 
 <!-- Версии в бейджах правятся руками при каждом релизе. -->
-[![Скачать для Windows](https://img.shields.io/badge/Скачать_для_Windows-0.20.11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe)
+[![Скачать для Windows](https://img.shields.io/badge/Скачать_для_Windows-0.20.12-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe)
 [![RuStore](https://img.shields.io/badge/Android-RuStore-0077FF?style=for-the-badge&logo=android&logoColor=white)](https://www.rustore.ru/catalog/app/app.sweetwhisper.android)
 [![Скачать APK](https://img.shields.io/badge/Android_APK-3.55-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://sweetwhisper.app/dl/SweetWhisper.apk)
 
@@ -99,8 +99,8 @@
 
 | Платформа | Файл | Размер | С сайта | С GitHub |
 |---|---|---|---|---|
-| **Windows 10/11** · установщик | `SweetWhisper-Setup.exe` | 31,8 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.20.11](../../releases/tag/v0.20.11) |
-| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 53,9 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.20.11](../../releases/tag/v0.20.11) |
+| **Windows 10/11** · установщик | `SweetWhisper-Setup.exe` | 32,0 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.20.12](../../releases/tag/v0.20.12) |
+| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 54,0 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.20.12](../../releases/tag/v0.20.12) |
 | **Android 9+** · APK | `SweetWhisper.apk` | 57,7 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.55](../../releases/tag/android-v3.55) |
 | **Android 9+** · магазин | RuStore | — | [открыть в RuStore](https://www.rustore.ru/catalog/app/app.sweetwhisper.android) | — |
 
