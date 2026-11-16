@@ -1,6 +1,6 @@
 <div align="center">
 
-[Русский](README.md) · **English**
+**English** · [Русский](README.ru.md)
 
 <img src="assets/hero-cat.png" alt="SweetWhisper" width="180">
 
