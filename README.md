@@ -1,195 +1,193 @@
 <div align="center">
 
-**Русский** · [English](README.en.md)
+[Русский](README.md) · **English**
 
 <img src="assets/hero-cat.png" alt="SweetWhisper" width="180">
 
 # SweetWhisper
 
-### Говорите — текст появляется там, где стоит курсор
+### Speak — the text appears wherever your cursor is
 
-**Голосовой ввод для Windows и Android. Речь распознаётся прямо на вашем устройстве: без интернета, без подписки, голос никуда не уходит.**
+**Voice typing for Windows and Android. Speech is recognized right on your device: no internet, no subscription, your voice never leaves it.**
 
-<!-- Версии в бейджах правятся руками при каждом релизе. -->
-[![Скачать для Windows](https://img.shields.io/badge/Скачать_для_Windows-0.20.13-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe)
-[![RuStore](https://img.shields.io/badge/Android-RuStore-0077FF?style=for-the-badge&logo=android&logoColor=white)](https://www.rustore.ru/catalog/app/app.sweetwhisper.android)
-[![Скачать APK](https://img.shields.io/badge/Android_APK-3.57-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://sweetwhisper.app/dl/SweetWhisper.apk)
+<!-- Badge versions are edited by hand on each release. -->
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0.20.13-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe)
+[![Android APK](https://img.shields.io/badge/Android_APK-3.57-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://sweetwhisper.app/dl/SweetWhisper.apk)
 
-![Офлайн](https://img.shields.io/badge/распознавание-на_устройстве-2ea44f)
-![Бесплатно](https://img.shields.io/badge/диктовка-бесплатно_и_без_лимитов-2ea44f)
-![Языки](https://img.shields.io/badge/языки-RU_%2B_90%2B-blue)
+![Offline](https://img.shields.io/badge/recognition-on--device-2ea44f)
+![Free](https://img.shields.io/badge/dictation-free,_no_limits-2ea44f)
+![Languages](https://img.shields.io/badge/languages-90%2B-blue)
 
-[🌐 Сайт](https://sweetwhisper.app) · [📱 Android](https://sweetwhisper.app/android/) · [❓ Вопросы](#частые-вопросы) · [📝 Что нового](https://sweetwhisper.app/changelog/) · [🐛 Сообщить о баге](../../issues/new/choose)
+[🌐 Website](https://sweetwhisper.app/en/) · [📱 Android](https://sweetwhisper.app/en/android/) · [❓ FAQ](#faq) · [📝 Changelog](https://sweetwhisper.app/en/changelog/) · [🐛 Report a bug](../../issues/new/choose)
 
-<img src="assets/demo.gif" alt="Демо: диктовка в любое приложение" width="680">
+<img src="assets/demo.gif" alt="Demo: dictating into any app" width="680">
 
 </div>
 
 ---
 
-## Как это работает
+## How it works
 
-| 1. Зажмите клавишу | 2. Говорите | 3. Отпустите |
+| 1. Hold a key | 2. Speak | 3. Release |
 |:---:|:---:|:---:|
-| Одна клавиша на всё. На телефоне — микрофон на клавиатуре | Модель слушает и распознаёт речь прямо на компьютере или телефоне | Готовый текст сам вставляется в активное окно: чат, почту, документ, редактор кода |
+| One key for everything. On the phone, it's the mic on your keyboard | The model listens and recognizes your speech right on the computer or phone | The finished text is inserted into the active window: chat, email, document, code editor |
 
-Без копирования, без переключения окон, без отправки голоса в облако.
+No copying, no switching windows, no voice sent to the cloud.
 
-## Почему SweetWhisper
+## Why SweetWhisper
 
-- 🎯 **Хорошо понимает русский.** Модель GigaAM обучена именно на русской речи, а Whisper и Parakeet справляются со смешанной речью и английскими терминами. Всего — больше 90 языков.
-- 🔒 **Голос остаётся у вас.** Распознавание идёт на вашей видеокарте или процессоре. Нет аккаунтов, нет телеметрии, работает даже в самолёте.
-- ⌨️ **Работает в любой программе.** Telegram, браузер, Word, IDE — текст попадает туда, где мигает курсор.
-- 💸 **Диктовка бесплатна навсегда.** Без лимитов по минутам и без подписки. Pro — разовая покупка для тех, кому нужно больше.
-- 🐱 **Приятно пользоваться.** Аккуратная панель поверх окон, светлая, кремовая и тёмная темы, подсказки на каждом шаге.
+- 🌍 **90+ languages.** Whisper and NVIDIA Parakeet cover English and many more; GigaAM is trained specifically on Russian.
+- 🔒 **Your voice stays with you.** Recognition runs on your GPU or CPU. No accounts, no telemetry — it works even on a plane.
+- ⌨️ **Works in any app.** Slack, browser, Word, your IDE — the text lands where the cursor blinks.
+- 💸 **Dictation is free forever.** No per-minute limits, no subscription. Pro is a one-time purchase for those who want more.
+- 🐱 **Pleasant to use.** A tidy always-on-top bar, light, cream and dark themes, hints at every step.
 
 ## Windows
 
 <table>
 <tr>
-<td width="50%"><img src="assets/desktop-general.png" alt="Готово к диктовке: модель, микрофон и горячая клавиша"><br><sub><b>Сразу видно, что всё готово</b> — модель, микрофон и горячая клавиша</sub></td>
-<td width="50%"><img src="assets/desktop-models.png" alt="Каталог моделей распознавания"><br><sub><b>Модель под ваш компьютер</b> — точнее или быстрее, приложение подскажет</sub></td>
+<td width="50%"><img src="assets/desktop-general-en.png" alt="Ready to dictate: model, microphone and hotkey"><br><sub><b>See at a glance that you're ready</b> — model, microphone and hotkey</sub></td>
+<td width="50%"><img src="assets/desktop-models-en.png" alt="Speech model catalog"><br><sub><b>A model that fits your PC</b> — more accurate or faster, the app suggests one</sub></td>
 </tr>
 <tr>
-<td width="50%"><img src="assets/desktop-history.png" alt="История диктовок с поиском"><br><sub><b>История с поиском</b> — всё, что вы надиктовали, хранится только у вас</sub></td>
-<td width="50%"><img src="assets/desktop-dark.png" alt="Тёмная тема"><br><sub><b>Три темы</b> — светлая, кремовая и тёмная</sub></td>
+<td width="50%"><img src="assets/desktop-history-en.png" alt="Searchable dictation history"><br><sub><b>Searchable history</b> — everything you dictated stays on your machine</sub></td>
+<td width="50%"><img src="assets/desktop-dark-en.png" alt="Dark theme"><br><sub><b>Three themes</b> — light, cream and dark</sub></td>
 </tr>
 </table>
 
-- 🎙️ **Диктовка в любое окно** — зажмите клавишу или включите запись переключателем
-- 🧠 **Три движка на выбор** — Whisper, Parakeet и GigaAM; ускорение на видеокартах NVIDIA, AMD и Intel
-- 🗣️ **Голосовые команды** — «Котик, отмена», «Котик, открой блокнот»
-- 📖 **Свой словарь** — имена и термины, которые модель должна писать правильно
-- 📜 **История** — поиск по всему надиктованному, экспорт, избранное
-- ✨ **В Pro:** текст появляется прямо во время речи, локальный ИИ убирает «эээ», расставляет знаки и переводит, расшифровка аудио и видео с субтитрами
+- 🎙️ **Dictate into any window** — hold a key or toggle recording on and off
+- 🧠 **Three engines to choose from** — Whisper, Parakeet and GigaAM; GPU acceleration on NVIDIA, AMD and Intel
+- 🗣️ **Voice commands** — "Kitty, undo", "Kitty, open notepad"
+- 📖 **Your own dictionary** — names and terms the model should spell right
+- 📜 **History** — search everything you dictated, export, favorites
+- ✨ **With Pro:** text appears while you are still speaking, a local AI drops filler words, fixes punctuation and translates, audio and video transcription with subtitles
 
 ## Android
 
-Это голосовая клавиатура: вы диктуете там же, где обычно печатаете. Открыли чат, нажали микрофон, сказали — слова появляются прямо в сообщении.
+It's a voice keyboard: you dictate right where you normally type. Open a chat, tap the mic, speak — the words land straight in the message.
 
 <div align="center">
-<img src="assets/android-01.png" alt="Голосовой ввод без интернета" width="200">
-<img src="assets/android-02.png" alt="Диктовка в любом приложении" width="200">
-<img src="assets/android-03.png" alt="Плавающая кнопка над любым полем" width="200">
-<img src="assets/android-04.png" alt="Модели под ваш телефон" width="200">
+<img src="assets/android-01-en.png" alt="Offline voice typing" width="200">
+<img src="assets/android-02-en.png" alt="Dictate in any app" width="200">
+<img src="assets/android-03-en.png" alt="Floating button over any field" width="200">
+<img src="assets/android-04-en.png" alt="Models for your phone" width="200">
 </div>
 
-- Диктовка с клавиатуры бесплатна и без лимитов — русский тоже
-- Всё считается на телефоне: звук не сохраняется и никуда не уходит
-- GigaAM сама ставит запятые и заглавные буквы
-- Модель подбирается под ваш телефон при первом запуске
-- Плавающая кнопка над любым полем, плитка в шторке, виджет
-- Без рекламы, без аккаунта, без трекеров
+- Dictation from the keyboard is free, with no limits
+- Everything runs on the phone: audio is not saved and never leaves it
+- 99 languages; GigaAM adds commas and capitals to Russian by itself
+- The model is matched to your phone on first launch
+- Floating button over any field, quick-settings tile, widget
+- No ads, no account, no trackers
 
-[Как установить и включить клавиатуру — пошагово →](https://sweetwhisper.app/android/)
+[How to install it and enable the keyboard, step by step →](https://sweetwhisper.app/en/android/)
 
-## Чем отличается от других
+## How it compares
 
-| | **SweetWhisper** | Облачные сервисы | Open-source утилиты | Диктовка Windows (Win+H) |
+| | **SweetWhisper** | Cloud services | Open-source tools | Windows dictation (Win+H) |
 |---|:---:|:---:|:---:|:---:|
-| Работает без интернета | ✅ | ❌ | ✅ | ❌ для русского |
-| Звук остаётся на компьютере | ✅ | ❌ | ✅ | ❌ |
-| Выбор модели распознавания | ✅ Whisper, Parakeet, GigaAM | ❌ своя | обычно только Whisper | ❌ |
-| Голосовые команды | ✅ | ❌ | ❌ | ❌ |
-| ИИ-доработка текста | ✅ Pro, локально | ✅ в облаке | ❌ | ❌ |
-| Настраивать руками не нужно | ✅ | ✅ | ❌ | ✅ |
-| Цена | бесплатно, Pro — разово | подписка | бесплатно | бесплатно |
+| Works offline | ✅ | ❌ | ✅ | ❌ for many languages |
+| Audio stays on your computer | ✅ | ❌ | ✅ | ❌ |
+| Choice of speech model | ✅ Whisper, Parakeet, GigaAM | ❌ their own | usually Whisper only | ❌ |
+| Voice commands | ✅ | ❌ | ❌ | ❌ |
+| AI text cleanup | ✅ Pro, on-device | ✅ in the cloud | ❌ | ❌ |
+| Works out of the box | ✅ | ✅ | ❌ | ✅ |
+| Price | free, Pro is one-time | subscription | free | free |
 
-## Скачать
+## Download
 
-| Платформа | Файл | Размер | С сайта | С GitHub |
+| Platform | File | Size | From the site | From GitHub |
 |---|---|---|---|---|
-| **Windows 10/11** · установщик | `SweetWhisper-Setup.exe` | 32,0 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.20.13](../../releases/tag/v0.20.13) |
-| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 54,0 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.20.13](../../releases/tag/v0.20.13) |
-| **Android 9+** · APK | `SweetWhisper.apk` | 59,2 МБ | [скачать](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.57](../../releases/tag/android-v3.57) |
-| **Android 9+** · магазин | RuStore | — | [открыть в RuStore](https://www.rustore.ru/catalog/app/app.sweetwhisper.android) | — |
+| **Windows 10/11** · installer | `SweetWhisper-Setup.exe` | 32.0 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Setup.exe) | [v0.20.13](../../releases/tag/v0.20.13) |
+| **Windows 10/11** · portable | `SweetWhisper-Portable.zip` | 54.0 MB | [download](https://sweetwhisper.app/dl/SweetWhisper-Portable.zip) | [v0.20.13](../../releases/tag/v0.20.13) |
+| **Android 9+** · APK | `SweetWhisper.apk` | 59.2 MB | [download](https://sweetwhisper.app/dl/SweetWhisper.apk) | [android-v3.57](../../releases/tag/android-v3.57) |
 
-На сайте и в Releases лежит один и тот же файл, байт в байт. Ссылки на сайте всегда ведут на свежую сборку, а в [Releases](../../releases) остаются прошлые версии и контрольные суммы. Регистрация не нужна.
+The site and Releases serve the very same file, byte for byte. The site links always point at the newest build, while [Releases](../../releases) keep older versions and checksums. No sign-up needed.
 
-## Бесплатно и Pro
+## Free and Pro
 
-| | Бесплатно | Pro |
+| | Free | Pro |
 |---|:---:|:---:|
-| Диктовка без лимитов, все модели, ускорение на видеокарте | ✅ | ✅ |
-| История с поиском, голосовые команды | ✅ | ✅ |
-| Свои голосовые команды на компьютере | до 5 | до 200 |
-| Словарь замен на компьютере (на телефоне — без ограничений) | до 20 | без ограничений |
-| Текст появляется прямо во время речи | — | ✅ |
-| Локальный ИИ: чистка, пунктуация, режимы «письмо», «документ», «код» | — | ✅ |
-| Перевод при диктовке | — | ✅ |
-| Расшифровка аудио и видео, субтитры SRT/VTT, разделение говорящих | — | ✅ |
-| Плавающая кнопка диктовки на Android | — | ✅ |
+| Unlimited dictation, every model, GPU acceleration | ✅ | ✅ |
+| Searchable history, voice commands | ✅ | ✅ |
+| Your own voice commands on the computer | up to 5 | up to 200 |
+| Replacement dictionary on the computer (unlimited on the phone) | up to 20 | unlimited |
+| Text appears while you speak | — | ✅ |
+| Local AI: cleanup, punctuation, "email", "document", "code" modes | — | ✅ |
+| Translation while dictating | — | ✅ |
+| Audio and video transcription, SRT/VTT subtitles, speaker labels | — | ✅ |
+| Floating dictation button on Android | — | ✅ |
 
-**Pro — разовая покупка, не подписка.** Один ключ открывает Pro и на компьютере, и на телефоне. Сначала можно попробовать бесплатно: на компьютере — 14 дней, на телефоне — первые 200 диктовок плавающей кнопкой. Карта и регистрация не нужны. [Сколько стоит и что входит →](https://sweetwhisper.app/buy/)
+**Pro is a one-time purchase, not a subscription.** One key unlocks Pro on both the computer and the phone. Try it free first: 14 days on the computer, the first 200 floating-button dictations on the phone. No card, no sign-up. [Price and what's included →](https://sweetwhisper.app/en/buy/)
 
-## Что нужно для работы
+## System requirements
 
 **Windows**
-- Windows 10 или 11, 64-бит
-- От 4 ГБ оперативной памяти — этого хватает для GigaAM, лёгкого Parakeet и Whisper Large V3 Turbo
-- Видеокарта не обязательна. С ней быстрее и доступен живой предпросмотр: подойдёт NVIDIA, AMD или Intel со своей видеопамятью от 1 ГБ
-- От 75 МБ до 3 ГБ на диске под модели — скачиваете только те, что выбрали
+- Windows 10 or 11, 64-bit
+- 4 GB of RAM or more — enough for GigaAM, Parakeet Lite and Whisper Large V3 Turbo
+- A GPU is optional. With one it is faster and live preview is available: NVIDIA, AMD or Intel with at least 1 GB of dedicated video memory
+- 75 MB to 3 GB of disk space for models — you only download the ones you pick
 
 **Android**
-- Android 9 или новее
-- От 41 до 874 МБ под модель — приложение само предложит подходящую
+- Android 9 or newer
+- 41 to 874 MB for the model — the app suggests a suitable one
 
-## Частые вопросы
+## FAQ
 
 <details>
-<summary><b>Windows пишет «Неизвестный издатель». Это безопасно?</b></summary>
+<summary><b>Windows says "Unknown publisher". Is it safe?</b></summary>
 
-Да. Это окно SmartScreen: Windows показывает его для файлов, которые пока мало кто скачивал. Репутация копится по числу установок, а у каждой новой версии начинается с нуля — это предупреждение о новизне, а не о вирусе. Нажмите «Подробнее» → «Выполнить в любом случае».
+Yes. That's SmartScreen: Windows shows it for files that few people have downloaded yet. Reputation builds up with the number of installs and starts from zero for every new version — it's a warning about newness, not about malware. Click "More info" → "Run anyway".
 
-Не хотите верить на слово — сверьте контрольную сумму: в PowerShell выполните `Get-FileHash SweetWhisper-Setup.exe` и сравните SHA-256 с суммой на [странице релиза](../../releases/latest).
+Don't want to take our word for it? Check the checksum: run `Get-FileHash SweetWhisper-Setup.exe` in PowerShell and compare the SHA-256 with the one on the [release page](../../releases/latest).
 </details>
 
 <details>
-<summary><b>Правда работает без интернета?</b></summary>
+<summary><b>Does it really work offline?</b></summary>
 
-Да. Интернет нужен один раз — скачать модель. Дальше распознавание идёт целиком на устройстве, хоть в самолёте. Облачные сервисы (OpenAI, Yandex SpeechKit) можно подключить своим ключом, но по умолчанию всё офлайн.
+Yes. You need the internet once — to download a model. After that, recognition runs entirely on the device, even on a plane. Cloud services (OpenAI, Yandex SpeechKit) can be added with your own key, but by default everything is offline.
 </details>
 
 <details>
-<summary><b>Куда уходят мои записи?</b></summary>
+<summary><b>Where do my recordings go?</b></summary>
 
-Никуда. Звук обрабатывается на вашем компьютере или телефоне, история хранится в локальной базе — её можно очистить в любой момент. Аккаунтов, рекламы и телеметрии нет. В сеть приложение выходит, чтобы скачать выбранную модель и проверить обновления; отчёт об ошибке отправляется, только если вы сами это включили. Полный список — в [политике приватности](https://sweetwhisper.app/privacy/).
+Nowhere. Audio is processed on your computer or phone, and history lives in a local database you can clear at any time. No accounts, ads or telemetry. The app goes online to download the model you picked and to check for updates; an error report is sent only if you turned that on yourself. The full list is in the [privacy policy](https://sweetwhisper.app/en/privacy/).
 </details>
 
 <details>
-<summary><b>Pro отправляет текст в облако?</b></summary>
+<summary><b>Does Pro send my text to the cloud?</b></summary>
 
-Нет, если вы сами этого не включите. По умолчанию ИИ в Pro работает локально, текст не покидает компьютер — подходит и для конфиденциальных документов. Облачные модели подключаются только вручную, вашим ключом.
+No, unless you switch that on yourself. By default the AI in Pro runs locally and the text never leaves your computer — fine for confidential documents too. Cloud models are only connected manually, with your own key.
 </details>
 
 <details>
-<summary><b>Чем это лучше встроенной диктовки Windows или Google?</b></summary>
+<summary><b>How is it better than built-in Windows or Google dictation?</b></summary>
 
-Встроенная диктовка Windows отправляет голос в облако Microsoft, а для русского без интернета не работает. Голосовой ввод Google тоже обычно распознаёт на своих серверах. SweetWhisper распознаёт на устройстве, даёт выбрать модель, понимает голосовые команды и не показывает рекламу.
+Windows dictation sends your voice to Microsoft's cloud. Google voice typing usually recognizes on Google's servers too. SweetWhisper recognizes on the device, lets you choose the model, understands voice commands and shows no ads.
 </details>
 
 <details>
-<summary><b>Можно ли ставить APK не из магазина?</b></summary>
+<summary><b>Is it safe to install the APK outside a store?</b></summary>
 
-Можно. Файл подписан нашим ключом: обновления ставятся поверх, подменить приложение чужой сборкой нельзя. Android один раз спросит, доверяете ли вы источнику, — это обычная процедура для приложений вне магазина. Проще всего поставить из [RuStore](https://www.rustore.ru/catalog/app/app.sweetwhisper.android): там обновления приходят сами. Берите APK только с sweetwhisper.app или отсюда, из Releases.
+Yes. The file is signed with our key: updates install on top, and nobody can swap the app for someone else's build. Android will ask once whether you trust the source — the usual step for apps from outside a store. Only take the APK from sweetwhisper.app or from Releases here.
 </details>
 
 <details>
-<summary><b>А на Linux или macOS?</b></summary>
+<summary><b>What about Linux or macOS?</b></summary>
 
-Версия для Linux в разработке, основное уже работает. macOS пока не поддерживается.
+A Linux version is in the works, and the basics already run. macOS is not supported yet.
 </details>
 
-Больше ответов — в [полном FAQ](https://sweetwhisper.app/faq/).
+More answers in the [full FAQ](https://sweetwhisper.app/en/faq/).
 
-## Нашли ошибку? Есть идея?
+## Found a bug? Have an idea?
 
-Заведите [issue](../../issues/new/choose) — шаблон подскажет, что приложить. В приложении есть кнопка «Скопировать диагностику» (Настройки → «Помощь и о программе»): вставьте её вывод в сообщение, и починка пойдёт заметно быстрее. Правки выходят за дни, а не за месяцы.
+Open an [issue](../../issues/new/choose) — the template will tell you what to attach. The app has a "Copy diagnostics" button (Settings → "Help and about"): paste its output into your report and the fix will come noticeably sooner. Fixes ship in days, not months.
 
-Вопросы, впечатления и пожелания — в [обсуждения](../../discussions).
+Questions, impressions and wishes go to [Discussions](../../discussions).
 
-## Лицензия
+## License
 
-SweetWhisper — проприетарное ПО (© Roger, все права защищены). В этом репозитории лежат материалы дистрибуции, а не исходный код.
+SweetWhisper is proprietary software (© Roger, all rights reserved). This repository holds distribution materials, not the source code.
 
-Приложение построено на открытых движках — [whisper.cpp](https://github.com/ggml-org/whisper.cpp), [ONNX Runtime](https://github.com/microsoft/onnxruntime) — и открытых моделях: Whisper © OpenAI (MIT), GigaAM © SberDevices (MIT), Parakeet © NVIDIA (CC-BY-4.0), Silero VAD. Приложение для Android — форк [whisperIME](https://github.com/woheller69/whisperIME) © woheller69 (MIT). Полный список — в приложении: Настройки → О программе → «Open Source лицензии».
+The app is built on open engines — [whisper.cpp](https://github.com/ggml-org/whisper.cpp), [ONNX Runtime](https://github.com/microsoft/onnxruntime) — and open models: Whisper © OpenAI (MIT), GigaAM © SberDevices (MIT), Parakeet © NVIDIA (CC-BY-4.0), Silero VAD. The Android app is a fork of [whisperIME](https://github.com/woheller69/whisperIME) © woheller69 (MIT). Full list in the app: Settings → About → "Open source licenses".
